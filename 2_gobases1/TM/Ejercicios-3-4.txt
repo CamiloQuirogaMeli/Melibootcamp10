@@ -1,0 +1,17 @@
+Ejercicio 3
+
+var nombre string 		// Fixed
+var apellido string 		// Correct
+var uint edad 			// Fixed
+apellido = "Algún apellido" 	// Fixed
+var licencia_de_conducir := true 	// Fixed
+var estaturaDeLaPersona float 	// Correct
+cantidadDeHijos := 2 		// Fixed
+
+Ejercicio 4
+
+var apellido string = "Gomez"
+var edad int = 35
+boolean myBoolean = false
+var sueldo float = 45857.90
+var nombre string = "Julián"
