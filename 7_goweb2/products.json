@@ -1,0 +1,61 @@
+[
+    {
+        "Id": 1,
+        "Name": "Macbook Pro",
+        "Color": "gris",
+        "Price": 10000.00,
+        "Stock": 5,
+        "Code": "MBP-123",
+        "Published": true,
+        "CreatedAt": "2021-07-01"
+    },
+    {
+        "Id": 2,
+        "Name": "PC",
+        "Color": "negro",
+        "Price": 1500.00,
+        "Stock": 10,
+        "Code": "PC-098123",
+        "Published": true,
+        "CreatedAt": "2021-07-02"
+    },
+    {
+        "Id": 3,
+        "Name": "Cel Nokia",
+        "Color": "nego",
+        "Price": 100.00,
+        "Stock": 10,
+        "Code": "CEL-NK123",
+        "Published": true,
+        "CreatedAt": "2021-07-02"
+    },{
+        "Id": 4,
+        "Name": "Monitor",
+        "Color": "negro",
+        "Price": 8000.00,
+        "Stock": 5,
+        "Code": "MON-123",
+        "Published": false,
+        "CreatedAt": "2021-07-01"
+    },
+    {
+        "Id": 5,
+        "Name": "teclado",
+        "Color": "negro",
+        "Price": 500.00,
+        "Stock": 6,
+        "Code": "TC-098123",
+        "Published": false,
+        "CreatedAt": "2021-07-02"
+    },
+    {
+        "Id": 6,
+        "Name": "Mouse",
+        "Color": "azul",
+        "Price": 200.00,
+        "Stock": 20,
+        "Code": "MC-098123",
+        "Published": true,
+        "CreatedAt": "2021-07-02"
+    }
+]
