@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "code_transaction": "0001",
+        "currency": "USD",
+        "mount": 1000,
+        "dispatcher": "Alejandro Alamar",
+        "receiver": "Nebai Uriarte",
+        "transaction_date": "01/01/2021"
+    },
+    {
+        "id": 2,
+        "code_transaction": "0001",
+        "currency": "USD",
+        "mount": 1000,
+        "dispatcher": "Alejandro Alamar",
+        "receiver": "Nebai Uriarte",
+        "transaction_date": "01/01/2021"
+    },
+    {
+        "id": 3,
+        "code_transaction": "0001",
+        "currency": "USD",
+        "mount": 1000,
+        "dispatcher": "Alejandro Alamar",
+        "receiver": "Nebai Uriarte",
+        "transaction_date": "01/01/2021"
+    }
+]
