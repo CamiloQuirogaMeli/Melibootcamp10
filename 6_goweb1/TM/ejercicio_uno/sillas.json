@@ -1,0 +1,86 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "silla1",
+            "color": "rojo",
+            "precio": 234,
+            "stock": 23,
+            "codigo": "fr34",
+            "publicado": true,
+            "fecha_creacion": "12072021"
+        }, 
+        {
+            "id": 2,
+            "nombre": "silla2",
+            "color": "negro",
+            "precio": 250,
+            "stock": 15,
+            "codigo": "fr35",
+            "publicado": false,
+            "fecha_creacion": "30072021"
+        },
+        {
+            "id": 3,
+            "nombre": "silla3",
+            "color": "azul",
+            "precio": 240,
+            "stock": 16,
+            "codigo": "fr42",
+            "publicado": true,
+            "fecha_creacion": "27062021"
+        }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Claudio",
+            "apellido": "Rezart",
+            "email": "ej@ej.com",
+            "edad": 23,
+            "altura": 1.7,
+            "activo": true,
+            "fecha_creacion": "12072021"
+        }, 
+        {
+            "id": 2,
+            "nombre": "Patricio",
+            "apellido": "Rizzi",
+            "email": "ej@ej.com",
+            "edad": 40,
+            "altura": 1.6,
+            "activo": false,
+            "fecha_creacion": "20062021"
+        },
+        {
+            "id": 3,
+            "nombre": "Roberto",
+            "apellido": "Carlos",
+            "email": "ej@ej.com",
+            "edad": 30,
+            "altura": 1.8,
+            "activo": true,
+            "fecha_creacion": "05032020"
+        }
+    ],
+    "transacciones": [
+        {
+            "id": 1,
+            "codigo_transaccion": "sd32d",
+            "moneda": "usd",
+            "monto": 23,
+            "emisor": "emisor1",
+            "receoptor": "receptor1",
+            "fecha_creaccion": "02072021"
+        },
+        {
+            "id": 2,
+            "codigo_transaccion": "sd56c",
+            "moneda": "eu",
+            "monto": 50,
+            "emisor": "emisor2",
+            "receoptor": "receptor2",
+            "fecha_creaccion": "27072021"
+        }
+    ]
+}
