@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "jabon",
+        "color": "rojo",
+        "price": 100,
+        "stock":     50,
+        "code": "a1b2c3",
+        "published": true,
+        "creationDate": "02/07/2021"
+    },
+    {
+        "id": 2,
+        "name": "celular",
+        "color": "verde",
+        "price": 100000,
+        "stock": 5000,
+        "code": "d4e5f6",
+        "published": true,
+        "creationDate": "03/07/2021"
+    },
+    {
+        "id": 3,
+        "name": "taza",
+        "color": "amarillo",
+        "price": 200,
+        "stock": 100,
+        "code": "g7h8i9",
+        "published": false,
+        "creationDate": "04/07/2021"
+    }
+]
