@@ -1,0 +1,34 @@
+{
+    "productos":[
+       {
+          "id":1,
+          "nombre":"iPhone 11",
+          "color":"rojo",
+          "precio":4500000,
+          "stock":5,
+          "codigo":"06A78900",
+          "publicado":true,
+          "fechaDeCreacion":"09-09-2020"
+       },
+       {
+          "id":1,
+          "nombre":"iPhone 11",
+          "color":"negro",
+          "precio":4500000,
+          "stock":8,
+          "codigo":"06A78901",
+          "publicado":true,
+          "fechaDeCreacion":"09-09-2020"
+       },
+       {
+          "id":2,
+          "nombre":"iPhone XS",
+          "color":"negro",
+          "precio":3800000,
+          "stock":2,
+          "codigo":"06A77900",
+          "publicado":true,
+          "fechaDeCreacion":"09-09-2019"
+       }
+    ]
+ }
