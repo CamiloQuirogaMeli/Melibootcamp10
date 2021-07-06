@@ -1,0 +1,31 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "codigo": "F4LS4",
+            "moneda": "pesos",
+            "monto": 1500,
+            "emisor": "BANCO NACION",
+            "receptor": "BRUBANK",
+            "fecha-de-creacion": "2021-07-02"
+        },
+        {
+            "id": 2,
+            "codigo": "N0TTRU3",
+            "moneda": "dolares",
+            "monto": 150000,
+            "emisor": "BANCO FALSO",
+            "receptor": "BANCO MAS FALSO",
+            "fecha-de-creacion": "2021-07-01"
+        },
+        {
+            "id": 3,
+            "codigo": "L0SS1MUL4D0R3S",
+            "moneda": "euros",
+            "monto": 100,
+            "emisor": "BANCO CENTRAL DE ESPAÑA",
+            "receptor": "BANCO DE LA REPUBLICA DEL URUGUAY",
+            "fecha-de-creacion": "2021-06-30"
+        }
+    ]
+}

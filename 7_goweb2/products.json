@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nombre": "Manzanas",
+            "color": "Verde",
+            "precio": 5,
+            "stock": 100,
+            "codigo": "M4NZ4N4",
+            "publicado": true,
+            "fecha-de-creacion": "2021-07-02"
+        },
+        {
+            "id": 2,
+            "nombre": "Manzanas",
+            "color": "Rojas",
+            "precio": 4,
+            "stock": 150,
+            "codigo": "M4NZ4N4R0J4",
+            "publicado": true,
+            "fecha-de-creacion": "2021-07-01"
+        },
+        {
+            "id": 3,
+            "nombre": "Pera",
+            "color": "Amarilla",
+            "precio": 10,
+            "stock": 50,
+            "codigo": "P3R4",
+            "publicado": false,
+            "fecha-de-creacion": "2021-06-30"
+        }
+    ]
+}
