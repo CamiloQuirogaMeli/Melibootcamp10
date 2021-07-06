@@ -1,0 +1,33 @@
+
+[
+        {
+            "id": 100,
+            "nombre": "macbookPro",
+            "color": "gris",
+            "precio": 2000,
+            "stock": 10,
+            "codigo": "d45jh3d",
+            "publicado": true,
+            "fechaDeCreacion": "02/07/2019"
+        },
+        {
+            "id": 101,
+            "nombre": "lenovoPro",
+            "color": "negro",
+            "precio": 1000,
+            "stock": 3,
+            "codigo": "d32jh2a",
+            "publicado": false,
+            "fechaDeCreacion": "02/04/2019"
+        },
+        {
+            "id": 102,
+            "nombre": "acer",
+            "color": "blanco",
+            "precio": 1500,
+            "stock": 13,
+            "codigo": "d34jhs3",
+            "publicado": true,
+            "fechaDeCreacion": "02/03/2019"
+        }
+    ]
