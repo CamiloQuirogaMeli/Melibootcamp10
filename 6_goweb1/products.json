@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Audífonos Gamer Hyperx Cloud Alpha",
+        "color": "Rojo y negro",
+        "price": 370000,
+        "stock": 4,
+        "code": "1s1d123d1s",
+        "published": true,
+        "creationDate": "20/02/2021"
+    },
+    {
+        "id": 2,
+        "name": "Logitech Combo Avanzado: Teclado Mx Keys Mouse Mx Anywhere 3",
+        "color": "Gris oscuro",
+        "price": 759900,
+        "stock": 2,
+        "code": "1k32k1lm2n",
+        "published": true,
+        "creationDate": "24/02/2021"
+    },
+    {
+        "id": 3,
+        "name": "Base Para Portátil Mesa Para Computador Graduable En Altura",
+        "color": "Negro",
+        "price": 99500,
+        "stock": 2,
+        "code": "k2l3m4o0k1",
+        "published": false,
+        "creationDate": "3/03/2021"
+    },
+    {
+        "id": 4,
+        "name": "Funda Protector Portatil Macbook 13.3 Neopreno Pro",
+        "color": "Negro",
+        "price": 59900,
+        "stock": 24,
+        "code": "1k2l31o23m",
+        "published": true,
+        "creationDate": "13/03/2021"
+    }
+] 
