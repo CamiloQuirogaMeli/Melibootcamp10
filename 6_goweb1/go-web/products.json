@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zapatillas Vans",
+        "color": "negro",
+        "precio": 10000,
+        "stock": 10,
+        "codigo": "A156",
+        "publicado": true,
+        "fechaCreacion": "06-03-2021"
+    },
+    {
+        "id": 1,
+        "nombre": "Zapatillas Adidas",
+        "color": "verde",
+        "precio": 15000,
+        "stock": 8,
+        "codigo": "B556",
+        "publicado": true,
+        "fechaCreacion": "08-03-2021"
+    },
+    {
+        "id": 3,
+        "nombre": "Remera Nike",
+        "color": "blanco",
+        "precio": 2000,
+        "stock": 20,
+        "codigo": "C23",
+        "publicado": true,
+        "fechaCreacion": "05-03-2021"
+    },
+    {
+        "id": 4,
+        "nombre": "Zapatillas Converse",
+        "color": "negro",
+        "precio": 8000,
+        "stock": 12,
+        "codigo": "A140",
+        "publicado": false,
+        "fechaCreacion": "02-03-2021"
+    }
+]

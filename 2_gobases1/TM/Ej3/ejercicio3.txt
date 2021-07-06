@@ -1,0 +1,9 @@
+package main
+
+var nombre string
+var apellido string //es correcta
+var edad int
+apellido := 6
+var licenciaDeConducir = true
+var estaturaDeLaPersona int
+cantidadDeHijos := 2 // es correcta
