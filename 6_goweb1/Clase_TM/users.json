@@ -1,0 +1,42 @@
+[
+        {
+            "Id": 1,
+            "Name": "Sebastian",
+            "LastName": "Posadas",
+	        "Email": "sebastian.posadas@mercadolibre.com",
+	        "Age": 25,
+	        "Height": 1.69,
+	        "Active": true,
+            "CreationDate": "2021-07-04T21:41:44.699834-03:00"
+        },
+        {
+            "Id": 2,
+            "Name": "Simon",
+            "LastName": "Posadas",
+	        "Email": "simon.posadas@mercadolibre.com",
+	        "Age": 2,
+	        "Height": 0.60,
+	        "Active": false,
+            "CreationDate": "2021-07-04T21:41:44.699834-03:00"
+        },
+        {
+            "Id": 3,
+            "Name": "Carolina",
+            "LastName": "Barria",
+	        "Email": "carolina.barria@mercadolibre.com",
+	        "Age": 30,
+	        "Height": 1.55,
+	        "Active": false,
+            "CreationDate": "2021-07-04T21:41:44.699834-03:00"
+        },
+        {
+            "Id": 4,
+            "Name": "Eduardo",
+            "LastName": "Posadas",
+	        "Email": "eduardo.posadas@mercadolibre.com",
+	        "Age": 53,
+	        "Height": 1.66,
+	        "Active": false,
+            "CreationDate": "2021-07-04T21:41:44.699834-03:00"
+        }
+]
