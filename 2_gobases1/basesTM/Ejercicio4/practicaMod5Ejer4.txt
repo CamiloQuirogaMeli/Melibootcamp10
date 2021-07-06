@@ -1,0 +1,5 @@
+var apellido = "Gomez"
+var edad := 35
+Booleano := false
+var sueldo := 45857.90
+var nombre = "Julian"

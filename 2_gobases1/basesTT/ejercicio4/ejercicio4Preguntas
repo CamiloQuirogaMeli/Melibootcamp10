@@ -1,0 +1,2 @@
+Sí, se podría también anidar muchos if else preguntando por cada numero e imprimiendo el mes correspondiente o también hacer un switch con cada caso.
+Seguiría eligiendo mi solución ya que en los otros casos te quedarían 12 if anidados o 12 cases del switch, en mi solución lo resolví en un par de lineas creando un map con los 12 meses y luego buscando el numero que ingresa el usuario en el map directamente, imprimiendo el valor.

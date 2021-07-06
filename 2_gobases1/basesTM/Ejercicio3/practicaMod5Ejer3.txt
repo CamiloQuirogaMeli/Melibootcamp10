@@ -1,0 +1,10 @@
+Las que están bien son:
+	var apellido string
+	cantidadDeHijos := 2
+
+Se corrigen las incorrectas:
+	var nombre string
+	var edad int
+	apellido := 6
+	var licenciaDeConducir = true
+	var estaturaDeLaPersona int
