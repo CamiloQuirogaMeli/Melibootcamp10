@@ -1,0 +1,1 @@
+id: 3, precio: 230, cantidad: 5

@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nombre": "Bread Roll Foccacia",
+      "color": "Puce",
+      "precio": 2.43,
+      "stock": 1,
+      "codigo": "1a9298eb-e693-4222-b670-0d12938102e6",
+      "publicado": true,
+      "fechaCreacion": "19/08/2020"
+    },
+    {"id": 2,
+      "nombre": "Bread Richie",
+      "color": "Blue",
+      "precio": 255.43,
+      "stock": 52,
+      "codigo": "sdkasl2-a93-4222-b670-0d12938102e6",
+      "publicado": false,
+      "fechaCreacion": "19/08/2020"}
+  ]
+
