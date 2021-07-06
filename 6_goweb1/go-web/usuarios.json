@@ -1,0 +1,14 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Gonzalo",
+            "apellido": "Rodriguez",
+            "email": "miemail@smtp.com",
+            "edad": 24,
+            "altura": 1.73,
+            "activo": false,
+            "creacion": "02/07/2021"
+        }
+    ]
+}
