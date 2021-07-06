@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1, 
+        "name": "Cuchara", 
+        "color": "plateado", 
+        "price": 2000, 
+        "stock": 45, 
+        "code": "C01", 
+        "isPublished": true, 
+        "creationDate":"01-01-2021"
+    },
+    {
+        "id": 2, 
+        "name": "Olla", 
+        "color": "azul", 
+        "price": 25000, 
+        "stock": 30, 
+        "code": "O01", 
+        "isPublished": true, 
+        "creationDate":"01-01-2021"
+    },
+    {
+        "id": 3, 
+        "name": "Olla", 
+        "color": "plateada", 
+        "price": 25000, 
+        "stock": 37, 
+        "code": "O02", 
+        "isPublished": true, 
+        "creationDate":"01-01-2021"
+    },
+    {
+        "id": 4, 
+        "name": "Plato", 
+        "color": "blanco", 
+        "price": 10000, 
+        "stock": 45, 
+        "code": "P01", 
+        "isPublished": true, 
+        "creationDate":"01-01-2021"
+    },
+    {
+        "id": 5, 
+        "name": "Plato", 
+        "color": "veige", 
+        "price": 10000, 
+        "stock": 42, 
+        "code": "P02", 
+        "isPublished": true, 
+        "creationDate":"01-01-2021"
+    },
+    {
+        "id": 6, 
+        "name": "Vaso", 
+        "color": "blanco", 
+        "price": 9000, 
+        "stock": 78, 
+        "code": "V01", 
+        "isPublished": false, 
+        "creationDate":"01-01-2021"
+    },
+    {
+        "id": 7, 
+        "name": "Vaso", 
+        "color": "azul", 
+        "price": 9000, 
+        "stock": 34, 
+        "code": "V01", 
+        "isPublished": false, 
+        "creationDate":"01-01-2021"
+    }
+]
