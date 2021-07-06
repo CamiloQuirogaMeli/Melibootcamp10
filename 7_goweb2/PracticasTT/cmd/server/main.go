@@ -1,7 +1,7 @@
 package main
 import (
-    "github.com/extviconace/DigitalHouse/cmd/server/handler"
-    products "github.com/extviconace/DigitalHouse/internal"
+    "github.com/CamiloQuirogaMeli/7_goweb2/PracticasTT/cmd/server/handler"
+    products "github.com/CamiloQuirogaMeli/7_goweb2/PracticasTT/internal"
 
     "github.com/gin-gonic/gin"
 )

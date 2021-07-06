@@ -4,7 +4,7 @@ import (
     "net/http"
     "strconv"
 
-    products "github.com/extviconace/DigitalHouse/internal"
+    products "github.com/CamiloQuirogaMeli/7_goweb2/PracticasTT/internal"
     "github.com/gin-gonic/gin"
 )
 
