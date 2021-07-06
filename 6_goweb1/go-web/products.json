@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "nombre" : "Remera",
+        "color": "Rojo",
+        "precio": 15.90,
+        "stock" : 10,
+        "codigo" : "ABC123",
+        "publicado" : false,
+        "fechaCreacion" : "20/05/2020"
+    },
+    {
+        "id" : 2,
+        "nombre" : "Pantalones",
+        "color": "Negro",
+        "precio": 150.00,
+        "stock" : 1,
+        "codigo" : "DEF456",
+        "publicado" : true,
+        "fechaCreacion" : "25/05/2021"
+    }
+]
