@@ -1,0 +1,10 @@
+1- Las variables correctas son:
+    var apellido string
+    cantidadDeHijos := 2
+
+2- Corrección de variables incorrectas:
+    var edad int
+    var nombre string
+	apellido := 6
+	licenciaDeConducir := true
+	var estaturaDeLaPersona int

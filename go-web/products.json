@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bread Roll Foccacia",
+        "color": "Puce",
+        "precio": 2.43,
+        "stock": 1,
+        "codigo": "1a9298eb-e693-4222-b670-0d12938102e6",
+        "publicado": true,
+        "fecha_creacion": "19/08/2020"
+    },
+    {
+        "id": 2,
+        "nombre": "Ecolab Digiclean Mild Fm",
+        "color": "Yellow",
+        "precio": 3.73,
+        "stock": 2,
+        "codigo": "65dcc404-3945-4eae-9a0c-0ee208b3f46d",
+        "publicado": false,
+        "fecha_creacion": "08/10/2020"
+    },
+    {
+        "id": 3,
+        "nombre": "Napkin Colour",
+        "color": "Indigo",
+        "precio": 2.24,
+        "stock": 3,
+        "codigo": "ac4ebea6-2fda-4b3f-a434-aa89e0f46025",
+        "publicado": true,
+        "fecha_creacion": "07/12/2020"
+    },
+    {
+        "id": 4,
+        "nombre": "Bread - Sour Sticks With Onion",
+        "color": "Maroon",
+        "precio": 4.2,
+        "stock": 4,
+        "codigo": "546022ee-a2ab-4d32-9734-448dedcdee34",
+        "publicado": false,
+        "fecha_creacion": "09/03/2021"
+    },
+    {
+        "id": 5,
+        "nombre": "Soup - Campbells",
+        "color": "Mauv",
+        "precio": 3.73,
+        "stock": 5,
+        "codigo": "8ea824bc-e08e-4e1c-8624-61521b483fd7",
+        "publicado": true,
+        "fecha_creacion": "06/07/2020"
+    },
+    {
+        "id": 6,
+        "nombre": "Chip - Potato Dill Pickle",
+        "color": "Teal",
+        "precio": 1.8,
+        "stock": 6,
+        "codigo": "8b01d67e-a298-4787-a82d-b7ae3bfee99c",
+        "publicado": true,
+        "fecha_creacion": "01/12/2020"
+    },
+    {
+        "id": 7,
+        "nombre": "Trueblue - Blueberry",
+        "color": "Turquoise",
+        "precio": 1.24,
+        "stock": 7,
+        "codigo": "f3dde5c0-e7c5-43c5-927d-aad9d7ee4dbb",
+        "publicado": true,
+        "fecha_creacion": "19/10/2020"
+    },
+    {
+        "id": 8,
+        "nombre": "Poppy Seed",
+        "color": "Aquamarine",
+        "precio": 4.37,
+        "stock": 8,
+        "codigo": "3460abd9-49ab-47f7-894e-de8e928c7f35",
+        "publicado": false,
+        "fecha_creacion": "10/11/2020"
+    },
+    {
+        "id": 9,
+        "nombre": "Plasticspoonblack",
+        "color": "Violet",
+        "precio": 1.12,
+        "stock": 9,
+        "codigo": "bbfeb05f-f374-4261-82cd-65f9897097d4",
+        "publicado": true,
+        "fecha_creacion": "31/07/2020"
+    },
+    {
+        "id": 10,
+        "nombre": "Wine - Rhine Riesling Wolf Blass",
+        "color": "Red",
+        "precio": 2.67,
+        "stock": 10,
+        "codigo": "e51387f7-5f04-4de0-b327-8c337c949fc8",
+        "publicado": true,
+        "fecha_creacion": "29/05/2021"
+    },
+    {
+        "id": 11,
+        "nombre": "Carbonated Water - Strawberry",
+        "color": "Orange",
+        "precio": 3.37,
+        "stock": 11,
+        "codigo": "9d07ef19-5434-4169-9079-b1c8c8ebc2ba",
+        "publicado": true,
+        "fecha_creacion": "25/08/2020"
+    },
+    {
+        "id": 12,
+        "nombre": "Quail - Eggs, Fresh",
+        "color": "Yellow",
+        "precio": 2.81,
+        "stock": 12,
+        "codigo": "bd4339ff-8a84-41ad-85d0-7bd109486b1a",
+        "publicado": true,
+        "fecha_creacion": "19/06/2021"
+    },
+    {
+        "id": 13,
+        "nombre": "Cleaner - Comet",
+        "color": "Teal",
+        "precio": 1.2,
+        "stock": 13,
+        "codigo": "f4c69ed8-a8e6-40f6-9055-f948384ec42c",
+        "publicado": true,
+        "fecha_creacion": "20/12/2020"
+    },
+    {
+        "id": 14,
+        "nombre": "Pernod",
+        "color": "Puce",
+        "precio": 1.89,
+        "stock": 14,
+        "codigo": "f4d748da-dda4-4330-a088-f82819ea93cb",
+        "publicado": true,
+        "fecha_creacion": "18/12/2020"
+    },
+    {
+        "id": 15,
+        "nombre": "Lid Tray - 16in Dome",
+        "color": "Red",
+        "precio": 3.84,
+        "stock": 15,
+        "codigo": "16b77cb0-5d40-4ab1-98a3-b72c3675ad7a",
+        "publicado": false,
+        "fecha_creacion": "15/10/2020"
+    },
+    {
+        "id": 16,
+        "nombre": "Cranberries - Dry",
+        "color": "Crimson",
+        "precio": 4.63,
+        "stock": 16,
+        "codigo": "253b1e3c-a163-42c2-aeaa-f3f42bc4a337",
+        "publicado": false,
+        "fecha_creacion": "03/01/2021"
+    },
+    {
+        "id": 17,
+        "nombre": "Molasses - Fancy",
+        "color": "Red",
+        "precio": 4.33,
+        "stock": 17,
+        "codigo": "0906d1b2-fd80-4e1c-9a8e-27d28e338d4c",
+        "publicado": false,
+        "fecha_creacion": "31/12/2020"
+    },
+    {
+        "id": 18,
+        "nombre": "Wine - Black Tower Qr",
+        "color": "Crimson",
+        "precio": 3.13,
+        "stock": 18,
+        "codigo": "3aa3e7d2-f9bc-43db-9055-eb14f113e779",
+        "publicado": true,
+        "fecha_creacion": "14/02/2021"
+    },
+    {
+        "id": 19,
+        "nombre": "Urban Zen Drinks",
+        "color": "Khaki",
+        "precio": 3.97,
+        "stock": 19,
+        "codigo": "550995f9-7f63-471a-a2af-09c72a9df074",
+        "publicado": true,
+        "fecha_creacion": "15/04/2021"
+    },
+    {
+        "id": 20,
+        "nombre": "Calypso - Pineapple Passion",
+        "color": "Purple",
+        "precio": 1.12,
+        "stock": 20,
+        "codigo": "cf44b916-d7b7-450a-bcff-39d032045236",
+        "publicado": true,
+        "fecha_creacion": "10/02/2021"
+    },
+    {
+        "id": 21,
+        "nombre": "Bacon Strip Precooked",
+        "color": "Yellow",
+        "precio": 4.01,
+        "stock": 21,
+        "codigo": "08dd103a-0bcc-420a-9f4c-826d2cb4165c",
+        "publicado": false,
+        "fecha_creacion": "18/05/2021"
+    },
+    {
+        "id": 22,
+        "nombre": "Pork - Chop, Frenched",
+        "color": "Goldenrod",
+        "precio": 3.2,
+        "stock": 22,
+        "codigo": "a11ac1d6-7a9e-4f54-a957-526a0780b457",
+        "publicado": false,
+        "fecha_creacion": "12/03/2021"
+    },
+    {
+        "id": 23,
+        "nombre": "Ice Cream Bar - Hageen Daz To",
+        "color": "Crimson",
+        "precio": 3.85,
+        "stock": 23,
+        "codigo": "882b3936-949d-45ac-83fc-08523c992dd6",
+        "publicado": false,
+        "fecha_creacion": "06/05/2021"
+    },
+    {
+        "id": 24,
+        "nombre": "Gatorade - Fruit Punch",
+        "color": "Mauv",
+        "precio": 5.94,
+        "stock": 24,
+        "codigo": "d768440c-c15c-4e04-8679-11df0f159b78",
+        "publicado": false,
+        "fecha_creacion": "10/11/2020"
+    },
+    {
+        "id": 25,
+        "nombre": "Straw - Regular",
+        "color": "Pink",
+        "precio": 5.12,
+        "stock": 25,
+        "codigo": "695de5cb-d724-47b1-907b-e6b1aacbd2ae",
+        "publicado": true,
+        "fecha_creacion": "26/06/2021"
+    },
+    {
+        "id": 26,
+        "nombre": "Juice - Apple Cider",
+        "color": "Goldenrod",
+        "precio": 2.01,
+        "stock": 26,
+        "codigo": "78c81f00-d1c6-4b9a-b6ec-b0159b079bb4",
+        "publicado": false,
+        "fecha_creacion": "25/01/2021"
+    },
+    {
+        "id": 27,
+        "nombre": "Shrimp - Black Tiger 6 - 8",
+        "color": "Maroon",
+        "precio": 3.26,
+        "stock": 27,
+        "codigo": "c37f886e-874b-4af1-a2c0-7e8321a84652",
+        "publicado": true,
+        "fecha_creacion": "02/10/2020"
+    },
+    {
+        "id": 28,
+        "nombre": "Yokaline",
+        "color": "Violet",
+        "precio": 5.39,
+        "stock": 28,
+        "codigo": "4b319150-472e-4a87-9147-e4bc8ba38668",
+        "publicado": true,
+        "fecha_creacion": "14/05/2021"
+    },
+    {
+        "id": 29,
+        "nombre": "Tarragon - Primerba, Paste",
+        "color": "Purple",
+        "precio": 1.5,
+        "stock": 29,
+        "codigo": "e579239e-b028-4bf2-bfc1-fa638dfde24e",
+        "publicado": true,
+        "fecha_creacion": "11/05/2021"
+    },
+    {
+        "id": 30,
+        "nombre": "Yogurt - Blueberry, 175 Gr",
+        "color": "Teal",
+        "precio": 1.16,
+        "stock": 30,
+        "codigo": "014dfb54-edd4-47b6-a1db-f3fe03627a7e",
+        "publicado": false,
+        "fecha_creacion": "16/03/2021"
+    },
+    {
+        "id": 31,
+        "nombre": "Cod - Black Whole Fillet",
+        "color": "Puce",
+        "precio": 3.33,
+        "stock": 31,
+        "codigo": "70d0b56f-5d46-434a-8ead-2b44828a64ca",
+        "publicado": true,
+        "fecha_creacion": "29/12/2020"
+    },
+    {
+        "id": 32,
+        "nombre": "Gelatine Powder",
+        "color": "Crimson",
+        "precio": 3.35,
+        "stock": 32,
+        "codigo": "c22c7713-70f1-45d2-ad07-b2aaa3e2b189",
+        "publicado": false,
+        "fecha_creacion": "21/11/2020"
+    },
+    {
+        "id": 33,
+        "nombre": "Pear - Prickly",
+        "color": "Khaki",
+        "precio": 2.41,
+        "stock": 33,
+        "codigo": "4ba12f8e-c291-43a6-b4cd-ff65f196781e",
+        "publicado": false,
+        "fecha_creacion": "28/01/2021"
+    },
+    {
+        "id": 34,
+        "nombre": "Sugar - Icing",
+        "color": "Puce",
+        "precio": 1.64,
+        "stock": 34,
+        "codigo": "df809961-2664-43d6-8822-dd39b4e31b57",
+        "publicado": false,
+        "fecha_creacion": "19/06/2021"
+    },
+    {
+        "id": 35,
+        "nombre": "Soup - Campbells, Chix Gumbo",
+        "color": "Aquamarine",
+        "precio": 2.7,
+        "stock": 35,
+        "codigo": "d027bd99-92ca-41db-ba3a-eb10f080c460",
+        "publicado": false,
+        "fecha_creacion": "15/03/2021"
+    },
+    {
+        "id": 36,
+        "nombre": "Beer - Pilsner Urquell",
+        "color": "Turquoise",
+        "precio": 2.33,
+        "stock": 36,
+        "codigo": "9c2aa697-444a-4113-9e02-a379858b8fa8",
+        "publicado": false,
+        "fecha_creacion": "22/03/2021"
+    },
+    {
+        "id": 37,
+        "nombre": "Tart Shells - Sweet, 3",
+        "color": "Teal",
+        "precio": 3.73,
+        "stock": 37,
+        "codigo": "a452dc2b-2f73-459d-a364-24e43badfcd5",
+        "publicado": true,
+        "fecha_creacion": "27/06/2021"
+    },
+    {
+        "id": 38,
+        "nombre": "Soup - Campbells Beef Stew",
+        "color": "Aquamarine",
+        "precio": 2.94,
+        "stock": 38,
+        "codigo": "09f21d81-48cf-4821-97cd-821c48105e04",
+        "publicado": false,
+        "fecha_creacion": "28/05/2021"
+    },
+    {
+        "id": 39,
+        "nombre": "Longan",
+        "color": "Crimson",
+        "precio": 3.99,
+        "stock": 39,
+        "codigo": "256df433-5205-4bbc-ad77-18a27f358a3d",
+        "publicado": false,
+        "fecha_creacion": "03/06/2021"
+    },
+    {
+        "id": 40,
+        "nombre": "Tea - English Breakfast",
+        "color": "Blue",
+        "precio": 2.21,
+        "stock": 40,
+        "codigo": "c52c4846-0f2c-43f9-9fd7-6bd18d6620b2",
+        "publicado": false,
+        "fecha_creacion": "19/05/2021"
+    },
+    {
+        "id": 41,
+        "nombre": "Tray - Foam, Square 4 - S",
+        "color": "Turquoise",
+        "precio": 4.39,
+        "stock": 41,
+        "codigo": "912c9701-3c8a-4e80-9684-c4ac69ec4c46",
+        "publicado": true,
+        "fecha_creacion": "03/12/2020"
+    },
+    {
+        "id": 42,
+        "nombre": "Nantucket - 518ml",
+        "color": "Maroon",
+        "precio": 5.69,
+        "stock": 42,
+        "codigo": "a9ba5425-6e3a-44cf-bb2d-30030ca24e92",
+        "publicado": false,
+        "fecha_creacion": "16/01/2021"
+    },
+    {
+        "id": 43,
+        "nombre": "Truffle Cups - Red",
+        "color": "Orange",
+        "precio": 3.04,
+        "stock": 43,
+        "codigo": "e75d15b6-379e-424a-a0f7-1d10cb035648",
+        "publicado": true,
+        "fecha_creacion": "23/08/2020"
+    },
+    {
+        "id": 44,
+        "nombre": "Zucchini - Green",
+        "color": "Mauv",
+        "precio": 1.42,
+        "stock": 44,
+        "codigo": "0aa8f97d-dc70-498b-ace8-5d0cfa3d829f",
+        "publicado": true,
+        "fecha_creacion": "29/08/2020"
+    },
+    {
+        "id": 45,
+        "nombre": "Dry Ice",
+        "color": "Mauv",
+        "precio": 5.33,
+        "stock": 45,
+        "codigo": "f3cfcd9f-69eb-4550-999b-f21fb63c4231",
+        "publicado": true,
+        "fecha_creacion": "20/06/2021"
+    },
+    {
+        "id": 46,
+        "nombre": "Beer - Original Organic Lager",
+        "color": "Turquoise",
+        "precio": 4.8,
+        "stock": 46,
+        "codigo": "f25e413f-8646-4056-8858-7d60a3dc98e4",
+        "publicado": false,
+        "fecha_creacion": "04/10/2020"
+    },
+    {
+        "id": 47,
+        "nombre": "Soup V8 Roasted Red Pepper",
+        "color": "Aquamarine",
+        "precio": 5.03,
+        "stock": 47,
+        "codigo": "9b5281e9-ccc0-460f-8f83-d08f15a845aa",
+        "publicado": false,
+        "fecha_creacion": "27/01/2021"
+    },
+    {
+        "id": 48,
+        "nombre": "Cheese - Goat With Herbs",
+        "color": "Orange",
+        "precio": 4.48,
+        "stock": 48,
+        "codigo": "e4b3e4f8-4054-4496-b972-101e298090e7",
+        "publicado": true,
+        "fecha_creacion": "09/08/2020"
+    },
+    {
+        "id": 49,
+        "nombre": "Longos - Greek Salad",
+        "color": "Goldenrod",
+        "precio": 5.89,
+        "stock": 49,
+        "codigo": "0cbf0d01-4788-4109-ab4d-2a5b09f4ab7e",
+        "publicado": false,
+        "fecha_creacion": "01/11/2020"
+    },
+    {
+        "id": 50,
+        "nombre": "Fond - Neutral",
+        "color": "Maroon",
+        "precio": 2.75,
+        "stock": 50,
+        "codigo": "6b658a2e-a2ee-4c75-b088-ac48a6941a50",
+        "publicado": true,
+        "fecha_creacion": "26/10/2020"
+    },
+    {
+        "id": 51,
+        "nombre": "Extract Vanilla Pure",
+        "color": "Fuscia",
+        "precio": 2.24,
+        "stock": 51,
+        "codigo": "04a1cc2f-2b4c-4c9f-9243-3877d8546665",
+        "publicado": false,
+        "fecha_creacion": "31/08/2020"
+    },
+    {
+        "id": 52,
+        "nombre": "Wine - White, French Cross",
+        "color": "Maroon",
+        "precio": 4.69,
+        "stock": 52,
+        "codigo": "98419599-42c9-4b6d-be33-ed56b50e5ec4",
+        "publicado": true,
+        "fecha_creacion": "11/11/2020"
+    },
+    {
+        "id": 53,
+        "nombre": "Wine - Port Late Bottled Vintage",
+        "color": "Yellow",
+        "precio": 5.87,
+        "stock": 53,
+        "codigo": "a0d48592-930c-4161-8c39-3c4b13b69652",
+        "publicado": true,
+        "fecha_creacion": "29/09/2020"
+    },
+    {
+        "id": 54,
+        "nombre": "Tomatillo",
+        "color": "Goldenrod",
+        "precio": 2.14,
+        "stock": 54,
+        "codigo": "eef145b1-1ec2-453d-be2d-5a5b983411c4",
+        "publicado": true,
+        "fecha_creacion": "30/03/2021"
+    },
+    {
+        "id": 55,
+        "nombre": "Sour Cream",
+        "color": "Pink",
+        "precio": 4.82,
+        "stock": 55,
+        "codigo": "6877be77-88af-4e44-8d28-f10dc2ca3936",
+        "publicado": false,
+        "fecha_creacion": "30/05/2021"
+    },
+    {
+        "id": 56,
+        "nombre": "Initation Crab Meat",
+        "color": "Blue",
+        "precio": 5.73,
+        "stock": 56,
+        "codigo": "1555f600-cc1a-4301-9274-6a3c9d5ad561",
+        "publicado": true,
+        "fecha_creacion": "18/11/2020"
+    },
+    {
+        "id": 57,
+        "nombre": "Bread Crumbs - Japanese Style",
+        "color": "Violet",
+        "precio": 5.31,
+        "stock": 57,
+        "codigo": "765f1b7b-0b3a-4958-add5-61ea68f09831",
+        "publicado": true,
+        "fecha_creacion": "03/10/2020"
+    },
+    {
+        "id": 58,
+        "nombre": "Canadian Emmenthal",
+        "color": "Goldenrod",
+        "precio": 2.87,
+        "stock": 58,
+        "codigo": "a6da13f2-b3c8-4dcc-b9d2-bb25a8b31600",
+        "publicado": true,
+        "fecha_creacion": "14/10/2020"
+    },
+    {
+        "id": 59,
+        "nombre": "Salmon - Whole, 4 - 6 Pounds",
+        "color": "Fuscia",
+        "precio": 5.84,
+        "stock": 59,
+        "codigo": "61dac334-c3e4-480b-a96e-0d8c744063f2",
+        "publicado": true,
+        "fecha_creacion": "19/03/2021"
+    },
+    {
+        "id": 60,
+        "nombre": "Roe - Flying Fish",
+        "color": "Turquoise",
+        "precio": 1.4,
+        "stock": 60,
+        "codigo": "9ef48b1b-fe9a-4c82-ad24-430c8a5840fc",
+        "publicado": false,
+        "fecha_creacion": "07/03/2021"
+    },
+    {
+        "id": 61,
+        "nombre": "Pastry - Trippleberry Muffin - Mini",
+        "color": "Teal",
+        "precio": 5.48,
+        "stock": 61,
+        "codigo": "efdfb941-3731-44fc-94e4-41f3080da6e3",
+        "publicado": true,
+        "fecha_creacion": "03/03/2021"
+    },
+    {
+        "id": 62,
+        "nombre": "Lettuce - Boston Bib",
+        "color": "Blue",
+        "precio": 5.26,
+        "stock": 62,
+        "codigo": "6294ad64-5def-4819-a4f1-8006eb7077c8",
+        "publicado": false,
+        "fecha_creacion": "26/01/2021"
+    },
+    {
+        "id": 63,
+        "nombre": "Steampan Lid",
+        "color": "Yellow",
+        "precio": 1.43,
+        "stock": 63,
+        "codigo": "c05be8cd-5d62-4d85-bd10-bee24c56c829",
+        "publicado": true,
+        "fecha_creacion": "22/12/2020"
+    },
+    {
+        "id": 64,
+        "nombre": "Mustard Prepared",
+        "color": "Fuscia",
+        "precio": 5.06,
+        "stock": 64,
+        "codigo": "f04afa68-db32-4a57-87eb-d739da14681a",
+        "publicado": true,
+        "fecha_creacion": "29/05/2021"
+    },
+    {
+        "id": 65,
+        "nombre": "Fudge - Cream Fudge",
+        "color": "Teal",
+        "precio": 2.07,
+        "stock": 65,
+        "codigo": "1c70ee7e-1864-4b26-b5db-6cb1adc37f53",
+        "publicado": false,
+        "fecha_creacion": "24/01/2021"
+    },
+    {
+        "id": 66,
+        "nombre": "Vinegar - Cider",
+        "color": "Red",
+        "precio": 4.03,
+        "stock": 66,
+        "codigo": "063f57c6-fb76-4f81-a5dc-6a98a95975df",
+        "publicado": true,
+        "fecha_creacion": "09/04/2021"
+    },
+    {
+        "id": 67,
+        "nombre": "Bread - Sour Batard",
+        "color": "Turquoise",
+        "precio": 2.61,
+        "stock": 67,
+        "codigo": "f360e94e-ff6e-493a-856b-d4cbf7c29830",
+        "publicado": true,
+        "fecha_creacion": "09/07/2020"
+    },
+    {
+        "id": 68,
+        "nombre": "Yogurt - Blueberry, 175 Gr",
+        "color": "Yellow",
+        "precio": 4.12,
+        "stock": 68,
+        "codigo": "fbf4b0ab-1e13-492d-8d0b-dfa3a99b7d8c",
+        "publicado": true,
+        "fecha_creacion": "07/01/2021"
+    },
+    {
+        "id": 69,
+        "nombre": "Asparagus - White, Canned",
+        "color": "Mauv",
+        "precio": 1.05,
+        "stock": 69,
+        "codigo": "9ec7f545-c1b7-4b52-8dfe-89807ed6427c",
+        "publicado": true,
+        "fecha_creacion": "31/03/2021"
+    },
+    {
+        "id": 70,
+        "nombre": "Egg - Salad Premix",
+        "color": "Violet",
+        "precio": 4.31,
+        "stock": 70,
+        "codigo": "ddb24cec-e084-49e7-8c2e-891bdb808b8d",
+        "publicado": true,
+        "fecha_creacion": "02/04/2021"
+    },
+    {
+        "id": 71,
+        "nombre": "Potatoes - Yukon Gold 5 Oz",
+        "color": "Mauv",
+        "precio": 5.78,
+        "stock": 71,
+        "codigo": "0b6aaebe-05c8-4651-995d-90805d1c9223",
+        "publicado": true,
+        "fecha_creacion": "11/10/2020"
+    },
+    {
+        "id": 72,
+        "nombre": "Rosemary - Fresh",
+        "color": "Violet",
+        "precio": 3.06,
+        "stock": 72,
+        "codigo": "9956067e-0a6e-4a92-8ac5-dfa95fa96832",
+        "publicado": false,
+        "fecha_creacion": "20/02/2021"
+    },
+    {
+        "id": 73,
+        "nombre": "Paper - Brown Paper Mini Cups",
+        "color": "Turquoise",
+        "precio": 1.94,
+        "stock": 73,
+        "codigo": "c826b918-b31c-4835-bddd-1ac82b78248f",
+        "publicado": false,
+        "fecha_creacion": "10/07/2020"
+    },
+    {
+        "id": 74,
+        "nombre": "Extract - Vanilla,artificial",
+        "color": "Fuscia",
+        "precio": 3.18,
+        "stock": 74,
+        "codigo": "8ee5c3d0-60b2-48b5-ab8e-84ab7a75745b",
+        "publicado": false,
+        "fecha_creacion": "19/06/2021"
+    },
+    {
+        "id": 75,
+        "nombre": "Pepper - Red, Finger Hot",
+        "color": "Goldenrod",
+        "precio": 2.35,
+        "stock": 75,
+        "codigo": "2f3792a9-f844-4dbd-b96e-1c51ca63bac8",
+        "publicado": false,
+        "fecha_creacion": "21/11/2020"
+    },
+    {
+        "id": 76,
+        "nombre": "Lychee - Canned",
+        "color": "Indigo",
+        "precio": 5.03,
+        "stock": 76,
+        "codigo": "83115ef7-e0d0-4c59-9de8-803d50d8a5e8",
+        "publicado": false,
+        "fecha_creacion": "24/01/2021"
+    },
+    {
+        "id": 77,
+        "nombre": "Apple - Fuji",
+        "color": "Indigo",
+        "precio": 1.47,
+        "stock": 77,
+        "codigo": "fa9094f4-8cfb-4e5d-9f45-6b7544488610",
+        "publicado": true,
+        "fecha_creacion": "09/09/2020"
+    },
+    {
+        "id": 78,
+        "nombre": "Pepper - Chili Powder",
+        "color": "Mauv",
+        "precio": 4.49,
+        "stock": 78,
+        "codigo": "8c1303d8-bf3a-48cf-88db-a8a66fb5ae58",
+        "publicado": false,
+        "fecha_creacion": "12/05/2021"
+    },
+    {
+        "id": 79,
+        "nombre": "Cheese - Romano, Grated",
+        "color": "Puce",
+        "precio": 3.32,
+        "stock": 79,
+        "codigo": "84f3cf18-9b1d-437f-a2aa-b64f31cb4420",
+        "publicado": false,
+        "fecha_creacion": "14/10/2020"
+    },
+    {
+        "id": 80,
+        "nombre": "Banana Turning",
+        "color": "Crimson",
+        "precio": 3.68,
+        "stock": 80,
+        "codigo": "3d633e15-b592-4c4c-be95-a172f3b8fedb",
+        "publicado": false,
+        "fecha_creacion": "24/03/2021"
+    },
+    {
+        "id": 81,
+        "nombre": "Durian Fruit",
+        "color": "Goldenrod",
+        "precio": 3.17,
+        "stock": 81,
+        "codigo": "5df6fa67-4c6f-4277-b5f7-974114a83ea1",
+        "publicado": true,
+        "fecha_creacion": "04/11/2020"
+    },
+    {
+        "id": 82,
+        "nombre": "Appetizer - Veg Assortment",
+        "color": "Puce",
+        "precio": 5.27,
+        "stock": 82,
+        "codigo": "989ee136-2bc5-4049-bf34-ab63c1ddee7d",
+        "publicado": false,
+        "fecha_creacion": "20/08/2020"
+    },
+    {
+        "id": 83,
+        "nombre": "Fudge - Chocolate Fudge",
+        "color": "Pink",
+        "precio": 2.3,
+        "stock": 83,
+        "codigo": "c9a43131-ff41-4ff1-9f29-cbd09f5f1975",
+        "publicado": true,
+        "fecha_creacion": "01/09/2020"
+    },
+    {
+        "id": 84,
+        "nombre": "Sun - Dried Tomatoes",
+        "color": "Green",
+        "precio": 2.31,
+        "stock": 84,
+        "codigo": "57064a5e-4e93-4ebf-af01-d229f929e1e5",
+        "publicado": true,
+        "fecha_creacion": "05/12/2020"
+    },
+    {
+        "id": 85,
+        "nombre": "Tart - Pecan Butter Squares",
+        "color": "Violet",
+        "precio": 1.85,
+        "stock": 85,
+        "codigo": "f427faae-ffef-4b7c-950d-a7f67f3b6091",
+        "publicado": false,
+        "fecha_creacion": "02/05/2021"
+    },
+    {
+        "id": 86,
+        "nombre": "Nut - Walnut, Chopped",
+        "color": "Red",
+        "precio": 2.87,
+        "stock": 86,
+        "codigo": "cbe362a6-2b2a-40af-b426-6404543e45e3",
+        "publicado": true,
+        "fecha_creacion": "08/12/2020"
+    },
+    {
+        "id": 87,
+        "nombre": "Tequila - Sauza Silver",
+        "color": "Turquoise",
+        "precio": 5.57,
+        "stock": 87,
+        "codigo": "8792ef73-0705-48c7-89cf-702ff1805138",
+        "publicado": false,
+        "fecha_creacion": "22/11/2020"
+    },
+    {
+        "id": 88,
+        "nombre": "Pasta - Elbows, Macaroni, Dry",
+        "color": "Yellow",
+        "precio": 5.91,
+        "stock": 88,
+        "codigo": "6248d4ae-3164-49f4-8a3b-cfa9391fb697",
+        "publicado": false,
+        "fecha_creacion": "01/02/2021"
+    },
+    {
+        "id": 89,
+        "nombre": "Tart - Lemon",
+        "color": "Indigo",
+        "precio": 1.04,
+        "stock": 89,
+        "codigo": "ce61ebac-54d5-4a89-85c9-6b5c0348c2b7",
+        "publicado": false,
+        "fecha_creacion": "25/11/2020"
+    },
+    {
+        "id": 90,
+        "nombre": "Longos - Chicken Curried",
+        "color": "Orange",
+        "precio": 2.93,
+        "stock": 90,
+        "codigo": "8aeef1aa-a26a-4c08-a26b-855cac0a4ec6",
+        "publicado": false,
+        "fecha_creacion": "14/07/2020"
+    },
+    {
+        "id": 91,
+        "nombre": "Bread - Raisin Walnut Oval",
+        "color": "Red",
+        "precio": 1.83,
+        "stock": 91,
+        "codigo": "c0064598-012b-44fb-bd61-61ce7878649c",
+        "publicado": false,
+        "fecha_creacion": "24/09/2020"
+    },
+    {
+        "id": 92,
+        "nombre": "Tea - Lemon Green Tea",
+        "color": "Mauv",
+        "precio": 2.64,
+        "stock": 92,
+        "codigo": "d5862064-2bd3-4a4c-a371-c23dabd0815c",
+        "publicado": false,
+        "fecha_creacion": "25/01/2021"
+    },
+    {
+        "id": 93,
+        "nombre": "Bread - Hot Dog Buns",
+        "color": "Purple",
+        "precio": 4.58,
+        "stock": 93,
+        "codigo": "ae9881f0-336e-403e-874a-fb03c1ac9fcd",
+        "publicado": true,
+        "fecha_creacion": "15/02/2021"
+    },
+    {
+        "id": 94,
+        "nombre": "Extract - Almond",
+        "color": "Aquamarine",
+        "precio": 5.17,
+        "stock": 94,
+        "codigo": "ef3007aa-8e79-4b77-82b5-4795d124e44a",
+        "publicado": false,
+        "fecha_creacion": "05/01/2021"
+    },
+    {
+        "id": 95,
+        "nombre": "Apple - Granny Smith",
+        "color": "Red",
+        "precio": 3.03,
+        "stock": 95,
+        "codigo": "166c3403-19ef-4402-b298-887665fd5cfe",
+        "publicado": false,
+        "fecha_creacion": "05/10/2020"
+    },
+    {
+        "id": 96,
+        "nombre": "Pear - Prickly",
+        "color": "Fuscia",
+        "precio": 4.23,
+        "stock": 96,
+        "codigo": "70e0c2f7-38aa-4c89-a544-8b2061f8338a",
+        "publicado": true,
+        "fecha_creacion": "05/09/2020"
+    },
+    {
+        "id": 97,
+        "nombre": "Coffee - Egg Nog Capuccino",
+        "color": "Aquamarine",
+        "precio": 1.51,
+        "stock": 97,
+        "codigo": "4b04dfbf-609d-4a6d-90be-19258633c4a5",
+        "publicado": false,
+        "fecha_creacion": "07/10/2020"
+    },
+    {
+        "id": 98,
+        "nombre": "Bread - Corn Muffaletta",
+        "color": "Aquamarine",
+        "precio": 1.95,
+        "stock": 98,
+        "codigo": "5efb662c-5cec-4432-9760-e99381594044",
+        "publicado": true,
+        "fecha_creacion": "26/12/2020"
+    },
+    {
+        "id": 99,
+        "nombre": "Cheese - Mascarpone",
+        "color": "Teal",
+        "precio": 5.7,
+        "stock": 99,
+        "codigo": "0b8ce6d3-dbce-4090-9652-23789007d89b",
+        "publicado": true,
+        "fecha_creacion": "02/11/2020"
+    },
+    {
+        "id": 100,
+        "nombre": "Tomato - Plum With Basil",
+        "color": "Indigo",
+        "precio": 3.99,
+        "stock": 100,
+        "codigo": "4dd5e60c-4528-4397-9346-3c7e312fe6cc",
+        "publicado": true,
+        "fecha_creacion": "04/08/2020"
+    }
+]

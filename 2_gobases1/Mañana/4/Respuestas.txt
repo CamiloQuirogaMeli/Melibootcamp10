@@ -1,0 +1,5 @@
+Correcciones:
+    apellido := "Gomez"
+	var edad int = 35
+	boolean := false;
+	var sueldo float32 = 45857.90
