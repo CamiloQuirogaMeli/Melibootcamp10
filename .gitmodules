@@ -1,0 +1,3 @@
+[submodule "6_goweb1/go-web"]
+	path = 6_goweb1/go-web
+	url = git@github.com:ganzola/go-web.git
