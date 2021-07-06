@@ -1,0 +1,3 @@
+1 ; macbook ; 450000 ; 2
+2 ; bb-8 ; 30000 ; 9
+3 ; mouse Redragon ; 5300 ; 20
