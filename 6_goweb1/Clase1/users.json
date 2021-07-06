@@ -1,0 +1,26 @@
+{
+	"users": [
+		{
+			"id" : "12345",
+			"nombre" : "Julián",
+			"apellido" : "Velandia",
+			"email" : "julian@julian.com",
+			"edad" : "21",
+			"altura" : "170",
+			"activo" : "true",
+			"creacion" : "23-04-2010(08:45:46)"
+		}
+	],
+	"products":[
+		{
+
+		}
+	],
+	"transaction":[
+		{
+			
+		}
+	]
+
+     
+}
