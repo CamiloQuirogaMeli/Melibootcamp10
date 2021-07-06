@@ -1,0 +1,22 @@
+[
+    {
+    "id": 1,
+    "nombre": "Producto1",
+    "color": "negro",
+    "precio": 1.54,
+    "stock": 50,
+    "codigo": "1-P1",
+    "publicado": "Si",
+    "fechaCreacion":"20/03/2021"
+   },
+   {
+    "id": 2,
+    "nombre": "Producto2",
+    "color": "azul",
+    "precio": 1.54,
+    "stock": 50,
+    "codigo": "2-P2",
+    "publicado": "Si",
+    "fechaCreacion":"25/12/2020"
+   }
+]
