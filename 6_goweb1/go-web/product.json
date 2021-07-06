@@ -1,0 +1,30 @@
+[{
+    "id": 1,
+    "nombre": "Mac",
+    "color": "Gris",
+    "precio": 1500,
+    "stock": 10,
+    "codigo": "EFM234",
+    "publicado": true,
+    "fecha_creacion": "20/04/2000"
+},
+{
+    "id": 2,
+    "nombre": "Mouse",
+    "color": "Negro",
+    "precio": 50,
+    "stock": 10,
+    "codigo": "MOF234",
+    "publicado": true,
+    "fecha_creacion": "20/02/1990"
+},
+{
+    "id": 3,
+    "nombre": "Teclado",
+    "color": "Blanco",
+    "precio": 100,
+    "stock": 10,
+    "codigo": "LKJ234",
+    "publicado": true,
+    "fecha_creacion": "20/01/2000"
+}]
