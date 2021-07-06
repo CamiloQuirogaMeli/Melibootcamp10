@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "pony malta",
+        "color": "rojo",
+        "price": 17000,
+        "stock": 20,
+        "Code": "cr98sdfa",
+        "published": true,
+        "creation_date": "01/01/2021"
+    },
+    {
+        "id": 2,
+        "name": "choco ramo",
+        "color": "rojo",
+        "price": 15000,
+        "stock": 20000,
+        "Code": "crm7a98sdfa",
+        "published": true,
+        "creation_date": "01/01/2021"
+    },
+    {
+        "id": 3,
+        "name": "papas fritas",
+        "color": "azul",
+        "price": 15000,
+        "stock": 20000,
+        "Code": "jkadjk8",
+        "published": true,
+        "creation_date": "01/01/2021"
+    },
+    {
+        "id": 4,
+        "name": "submarino",
+        "color": "amarillo",
+        "price": 600,
+        "stock": 13,
+        "Code": "kadie",
+        "published": true,
+        "creation_date": "01/01/2021"
+    }
+]
