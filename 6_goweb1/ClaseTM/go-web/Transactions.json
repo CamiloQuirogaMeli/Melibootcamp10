@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "code" : "111",
+        "currency": "UYU",
+        "amount": 12,
+        "emitor": "p1",
+        "receptor": "p2",
+        "date": "2021-7-4" 
+    },
+    {
+        "id": 2,
+        "code" : "112",
+        "currency": "MXN",
+        "amount": 10,
+        "emitor": "p2",
+        "receptor": "p3",
+        "date": "2021-7-4"   
+    },
+    {
+        "id": 3,
+        "code" : "113",
+        "currency": "ARG",
+        "amount": 15,
+        "emitor": "p4",
+        "receptor": "p2",
+        "date": "2021-7-4"  
+    },
+    {
+        "id": 4,
+        "code" : "114",
+        "currency": "COP",
+        "amount": 18,
+        "emitor": "p5",
+        "receptor": "p6",
+        "date": "2021-7-4"  
+    }
+]
