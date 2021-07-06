@@ -1,0 +1,32 @@
+[
+  {
+    "id": "213432",
+    "name": "toalla",
+    "color": "green",
+    "price": 14.3,
+    "stock": 100,
+    "code": "1eja123fah",
+    "published": "true",
+    "creation_date": "11/06/2021"
+  },
+  {
+    "id": "34252",
+    "name": "televisor",
+    "color": "black",
+    "price": 200.0,
+    "stock": 5,
+    "code": "95824oish",
+    "published": "false",
+    "creation_date": "01/07/2021"
+  },
+  {
+    "id": "111",
+    "name": "dvd",
+    "color": "blue",
+    "price": 120.5,
+    "stock": 24,
+    "code": "12313jfja12313fjlksajf",
+    "published": "false",
+    "creation_date": "01/01/1999"
+  }
+]
