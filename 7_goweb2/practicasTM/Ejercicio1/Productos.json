@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "nombre":"Bread Roll Foccacia",
+        "color":"Puce",
+        "precio":2,
+        "stock":1,
+        "codigo":"1a9298eb-e693-4222-b670",
+        "publicado":true,
+        "fecha_creacion":"1082020"
+    },
+    {
+        "id":2,
+        "nombre":"Ecolab Digiclean Mild Fm",
+        "color":"Yellow",
+        "precio":3.73,
+        "stock":2,
+        "codigo":"65dcc404-3945-4eae-9a0c-0ee208b3f46d",
+        "publicado":false,
+        "fecha_creacion":"08/10/2020"
+    },
+    {
+        "id":3,
+        "nombre":"Napkin Colour",
+        "color":"Indigo",
+        "precio":2.24,
+        "stock":3,
+        "codigo":"ac4ebea6-2fda-4b3f-a434-aa89e0f46025",
+        "publicado":true,
+        "fecha_creacion":"07/12/2020"
+    },
+    {
+        "id":4,
+        "nombre":"Bread - Sour Sticks With Onion",
+        "color":"Maroon",
+        "precio":4.2,
+        "stock":4,
+        "codigo":"546022ee-a2ab-4d32-9734-448dedcdee34",
+        "publicado":false,
+        "fecha_creacion":"09/03/2021"
+    },
+    {
+        "id":5,
+        "nombre":"Soup - Campbells",
+        "color":"Mauv",
+        "precio":3.73,
+        "stock":5,
+        "codigo":"8ea824bc-e08e-4e1c-8624-61521b483fd7",
+        "publicado":true,
+        "fecha_creacion":"06/07/2020"
+    },
+    {
+        "id":6,
+        "nombre":"Chip - Potato Dill Pickle",
+        "color":"Teal",
+        "precio":1.8,
+        "stock":6,
+        "codigo":"8b01d67e-a298-4787-a82d-b7ae3bfee99c",
+        "publicado":true,
+        "fecha_creacion":"01/12/2020"
+    },
+    {
+        "id":7,
+        "nombre":"Trueblue - Blueberry",
+        "color":"Turquoise",
+        "precio":1.24,
+        "stock":7,
+        "codigo":"f3dde5c0-e7c5-43c5-927d-aad9d7ee4dbb",
+        "publicado":true,
+        "fecha_creacion":"19/10/2020"
+    },
+    {
+        "id":8,
+        "nombre":"Poppy Seed",
+        "color":"Aquamarine",
+        "precio":4.37,
+        "stock":8,
+        "codigo":"3460abd9-49ab-47f7-894e-de8e928c7f35",
+        "publicado":false,
+        "fecha_creacion":"10/11/2020"
+    }
+]
